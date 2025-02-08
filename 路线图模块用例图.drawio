@@ -8,25 +8,43 @@
           <mxGeometry x="163" y="327" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rl16lbnjKWnmfpAxJJmj-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="247" y="149" width="355" height="505" as="geometry" />
+          <mxGeometry x="213" y="65" width="389" height="589" as="geometry" />
         </mxCell>
         <mxCell id="Rl16lbnjKWnmfpAxJJmj-5" value="路线图功能模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="375" y="157" width="99" height="30" as="geometry" />
+          <mxGeometry x="364" y="65" width="99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rl16lbnjKWnmfpAxJJmj-7" value="配置路线图配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="271" y="275" width="104" height="62" as="geometry" />
+          <mxGeometry x="234" y="184" width="104" height="62" as="geometry" />
         </mxCell>
         <mxCell id="Rl16lbnjKWnmfpAxJJmj-12" value="创建路线图" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="271" y="197" width="112" height="63" as="geometry" />
+          <mxGeometry x="226" y="102" width="112" height="63" as="geometry" />
         </mxCell>
         <mxCell id="Rl16lbnjKWnmfpAxJJmj-13" value="创建工作项" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="273" y="354" width="104" height="62" as="geometry" />
+          <mxGeometry x="234" y="274" width="104" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="Rl16lbnjKWnmfpAxJJmj-14" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="282" y="543" width="104" height="62" as="geometry" />
+        <mxCell id="Rl16lbnjKWnmfpAxJJmj-14" value="查看路线图信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="241" y="527" width="104" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="Rl16lbnjKWnmfpAxJJmj-15" value="配置工作项关系" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="279" y="443" width="104" height="62" as="geometry" />
+        <mxCell id="Rl16lbnjKWnmfpAxJJmj-15" value="关联工作项关系" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237" y="356" width="104" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Rl16lbnjKWnmfpAxJJmj-17" value="配置内容规划" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="377" y="103" width="104" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Rl16lbnjKWnmfpAxJJmj-18" value="配置内容展示" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="377" y="184" width="104" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Rl16lbnjKWnmfpAxJJmj-19" value="查看预警信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="587" width="104" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Rl16lbnjKWnmfpAxJJmj-20" value="查看层级关系" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="516" width="104" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Rl16lbnjKWnmfpAxJJmj-21" value="查看基础信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="439" width="104" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Rl16lbnjKWnmfpAxJJmj-22" value="创建里程碑" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237" y="442" width="104" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
