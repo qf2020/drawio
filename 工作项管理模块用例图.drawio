@@ -56,7 +56,7 @@
           <mxGeometry x="495" y="592" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9XsfmbvPra8Arlc5wNkv-28" value="创建需求" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="289" y="130" width="100" height="50" as="geometry" />
+          <mxGeometry x="364" y="108" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9XsfmbvPra8Arlc5wNkv-29" value="编写工作项信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="686" width="100" height="50" as="geometry" />
@@ -176,6 +176,15 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="383" y="615" as="sourcePoint" />
             <mxPoint x="283" y="497" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9XsfmbvPra8Arlc5wNkv-52" value="创建需求类别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227" y="108" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9XsfmbvPra8Arlc5wNkv-53" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9XsfmbvPra8Arlc5wNkv-52" target="9XsfmbvPra8Arlc5wNkv-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="424" y="168" as="sourcePoint" />
+            <mxPoint x="287" y="309" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
