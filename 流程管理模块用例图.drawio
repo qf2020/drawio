@@ -1,9 +1,114 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="nRazSnuQPNOup-Pqp2Xt">
-    <mxGraphModel>
+    <mxGraphModel dx="1306" dy="825" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xq_22mTDFq53GbEnvooa-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="102" y="355" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="213" y="65" width="435" height="644" as="geometry" />
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-3" value="流程管理功能模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="381" y="65" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-4" value="创建里程碑" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="256" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-5" value="创建项目集" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222" y="324" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xq_22mTDFq53GbEnvooa-1" target="xq_22mTDFq53GbEnvooa-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="148" y="198" as="sourcePoint" />
+            <mxPoint x="240" y="164" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-7" value="创建甘特图" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="426" y="342" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-8" value="创建计划" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="453" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-9" value="项目集权限配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="553" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-10" value="创建工作项" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222" y="462" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-11" value="关联工作项" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="126" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-12" value="查看项目集统计数据" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222" y="624" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-13" value="查看工作项" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222" y="208" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-14" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xq_22mTDFq53GbEnvooa-1" target="xq_22mTDFq53GbEnvooa-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="142" y="385" as="sourcePoint" />
+            <mxPoint x="232" y="199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xq_22mTDFq53GbEnvooa-1" target="xq_22mTDFq53GbEnvooa-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="142" y="385" as="sourcePoint" />
+            <mxPoint x="232" y="303" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-16" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xq_22mTDFq53GbEnvooa-1" target="xq_22mTDFq53GbEnvooa-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="142" y="385" as="sourcePoint" />
+            <mxPoint x="235" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-17" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xq_22mTDFq53GbEnvooa-1" target="xq_22mTDFq53GbEnvooa-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="142" y="385" as="sourcePoint" />
+            <mxPoint x="235" y="499" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-18" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xq_22mTDFq53GbEnvooa-1" target="xq_22mTDFq53GbEnvooa-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="142" y="385" as="sourcePoint" />
+            <mxPoint x="235" y="581" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-19" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xq_22mTDFq53GbEnvooa-5" target="xq_22mTDFq53GbEnvooa-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="332" y="424" as="sourcePoint" />
+            <mxPoint x="253" y="65" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-20" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xq_22mTDFq53GbEnvooa-5" target="xq_22mTDFq53GbEnvooa-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="332" y="199" as="sourcePoint" />
+            <mxPoint x="436" y="166" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-21" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xq_22mTDFq53GbEnvooa-5" target="xq_22mTDFq53GbEnvooa-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="332" y="199" as="sourcePoint" />
+            <mxPoint x="436" y="242" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-22" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xq_22mTDFq53GbEnvooa-10" target="xq_22mTDFq53GbEnvooa-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="332" y="424" as="sourcePoint" />
+            <mxPoint x="492" y="424" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-23" value="配置项目集范围" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="183" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xq_22mTDFq53GbEnvooa-24" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xq_22mTDFq53GbEnvooa-5" target="xq_22mTDFq53GbEnvooa-23">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="332" y="348" as="sourcePoint" />
+            <mxPoint x="434" y="291" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
