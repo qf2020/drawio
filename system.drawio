@@ -32,6 +32,9 @@
         <mxCell id="7xRdXNiMv8axmPZANaU4-9" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;基础应用功能模块&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;" parent="1" vertex="1">
           <mxGeometry y="580" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MPn8QvkwX-wL_JmnHgCd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7xRdXNiMv8axmPZANaU4-10" target="MPn8QvkwX-wL_JmnHgCd-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7xRdXNiMv8axmPZANaU4-10" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;商业智能运营模块&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=2;" parent="1" vertex="1">
           <mxGeometry x="273" y="580" width="120" height="60" as="geometry" />
         </mxCell>
@@ -136,6 +139,9 @@
         </mxCell>
         <mxCell id="MPn8QvkwX-wL_JmnHgCd-3" value="Redis集群模块" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="960" y="690" width="40" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MPn8QvkwX-wL_JmnHgCd-22" value="数据可视化模块" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="313" y="690" width="40" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
