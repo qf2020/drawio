@@ -89,19 +89,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ijvyQktE0aWH16FiOcsG-12" value="编辑工作流" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ijvyQktE0aWH16FiOcsG-12" value="编辑并行工作流" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="749" y="572" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ijvyQktE0aWH16FiOcsG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ijvyQktE0aWH16FiOcsG-14" target="ijvyQktE0aWH16FiOcsG-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ijvyQktE0aWH16FiOcsG-14" value="create_new_workflow&lt;div&gt;创建新工作流（并行/串行）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ijvyQktE0aWH16FiOcsG-14" value="create_new_workflow&lt;div&gt;创建新并行工作流&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="597" y="386" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ijvyQktE0aWH16FiOcsG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ijvyQktE0aWH16FiOcsG-16" target="ijvyQktE0aWH16FiOcsG-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ijvyQktE0aWH16FiOcsG-16" value="修改现存工作流" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ijvyQktE0aWH16FiOcsG-16" value="修改现存并行工作流" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="751" y="501" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ijvyQktE0aWH16FiOcsG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ijvyQktE0aWH16FiOcsG-18" target="ijvyQktE0aWH16FiOcsG-23" edge="1">
@@ -233,11 +233,17 @@
             <mxPoint x="983" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fLVtpyb-fq-U4lBU-cG4-0" value="新建" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1139.5" y="123" width="159" height="40" as="geometry" />
+        <mxCell id="fLVtpyb-fq-U4lBU-cG4-0" value="选择任意状态泳道" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1253" y="108" width="159" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fLVtpyb-fq-U4lBU-cG4-1" value="调用workflow_status_service获取状态池现存状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1139.5" y="28" width="159" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fLVtpyb-fq-U4lBU-cG4-2" value="新建节点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1253" y="170" width="159" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fLVtpyb-fq-U4lBU-cG4-3" value="新建节点" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1249" y="232" width="159" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
