@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="xbofDRNFgcab7UaRNV6J">
-    <mxGraphModel dx="920" dy="981" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1380" dy="1272" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="08TwMSNiIlxwIcO33zME-50" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="597" y="-91" width="300" height="118" as="geometry" />
+        </mxCell>
         <mxCell id="08TwMSNiIlxwIcO33zME-1" value="ProgramControlller" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="260" y="80" width="100" height="740" as="geometry" />
         </mxCell>
@@ -76,6 +79,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="08TwMSNiIlxwIcO33zME-56" value="返回权限数据" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=6;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;jumpSize=6;" edge="1" parent="08TwMSNiIlxwIcO33zME-11">
+          <mxGeometry x="0.013" relative="1" as="geometry">
+            <mxPoint x="-81" y="148" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1" y="148" />
+              <mxPoint x="29" y="148" />
+            </Array>
+            <mxPoint x="42" y="148" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="08TwMSNiIlxwIcO33zME-17" value="WorkitemTreeService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="820" y="80" width="100" height="740" as="geometry" />
         </mxCell>
@@ -130,14 +144,22 @@
             <mxPoint x="43" y="462" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="08TwMSNiIlxwIcO33zME-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="08TwMSNiIlxwIcO33zME-26">
-          <mxGeometry x="45" y="162" width="10" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="08TwMSNiIlxwIcO33zME-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="08TwMSNiIlxwIcO33zME-26">
           <mxGeometry x="45" y="294" width="10" height="24" as="geometry" />
         </mxCell>
         <mxCell id="08TwMSNiIlxwIcO33zME-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="08TwMSNiIlxwIcO33zME-26">
           <mxGeometry x="45" y="458" width="10" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="08TwMSNiIlxwIcO33zME-58" value="权限数据" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=6;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;jumpSize=6;" edge="1" parent="08TwMSNiIlxwIcO33zME-26" target="08TwMSNiIlxwIcO33zME-8">
+          <mxGeometry x="-0.0024" relative="1" as="geometry">
+            <mxPoint x="-377.9964705882353" y="189" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-4.319999999999936" y="189" />
+              <mxPoint x="25.680000000000064" y="189" />
+            </Array>
+            <mxPoint x="180.68000000000006" y="189" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="08TwMSNiIlxwIcO33zME-31" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
           <mxGeometry x="147" y="80" width="46" height="740" as="geometry" />
@@ -229,13 +251,24 @@
         <mxCell id="08TwMSNiIlxwIcO33zME-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="08TwMSNiIlxwIcO33zME-43">
           <mxGeometry x="45" y="458" width="10" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="08TwMSNiIlxwIcO33zME-50" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="597" y="-173" width="300" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="08TwMSNiIlxwIcO33zME-53" value="获取用户权限&lt;div&gt;(用户ID、项目集ID)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
           <mxGeometry x="0.0009" relative="1" as="geometry">
             <mxPoint x="597" y="210.19" as="sourcePoint" />
             <mxPoint x="727" y="210.19" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="08TwMSNiIlxwIcO33zME-57" value="查找数据库role_permission表" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="08TwMSNiIlxwIcO33zME-43">
+          <mxGeometry x="-0.0014" relative="1" as="geometry">
+            <mxPoint x="597" y="246.00000000000006" as="sourcePoint" />
+            <mxPoint x="1063" y="249" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="08TwMSNiIlxwIcO33zME-59" value="更新缓存数据" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="08TwMSNiIlxwIcO33zME-11">
+          <mxGeometry x="-0.0016" relative="1" as="geometry">
+            <mxPoint x="593" y="291" as="sourcePoint" />
+            <mxPoint x="723" y="291" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
