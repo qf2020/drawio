@@ -33,7 +33,7 @@
             <mxPoint x="-11" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7sqkxOELv0YCA9iJVdpb-11" value="*" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="7sqkxOELv0YCA9iJVdpb-9">
+        <mxCell id="7sqkxOELv0YCA9iJVdpb-11" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="7sqkxOELv0YCA9iJVdpb-9">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="10" y="-1" as="offset" />
           </mxGeometry>
