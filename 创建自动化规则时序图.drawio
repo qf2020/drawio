@@ -50,6 +50,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cHH2p0PHme9dH51RubHS-52" value="存储触发对象和触发规则" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="cHH2p0PHme9dH51RubHS-8">
+          <mxGeometry x="-0.0009" relative="1" as="geometry">
+            <mxPoint x="53" y="353" as="sourcePoint" />
+            <mxPoint x="469.5" y="353" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cHH2p0PHme9dH51RubHS-11" value="ExecutorService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="680" y="80" width="100" height="740" as="geometry" />
         </mxCell>
@@ -69,13 +76,6 @@
         </mxCell>
         <mxCell id="cHH2p0PHme9dH51RubHS-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="cHH2p0PHme9dH51RubHS-17">
           <mxGeometry x="45" y="283" width="10" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="cHH2p0PHme9dH51RubHS-20" value="查询工作项id" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="cHH2p0PHme9dH51RubHS-17">
-          <mxGeometry x="-0.0023" relative="1" as="geometry">
-            <mxPoint x="56" y="300" as="sourcePoint" />
-            <mxPoint x="331" y="300" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="cHH2p0PHme9dH51RubHS-24" value="开始创建自动化规则" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="cHH2p0PHme9dH51RubHS-31" target="cHH2p0PHme9dH51RubHS-2">
           <mxGeometry x="0.0037" relative="1" as="geometry">
@@ -170,6 +170,64 @@
             <mxPoint x="312" y="346" as="sourcePoint" />
             <mxPoint as="offset" />
             <mxPoint x="588" y="346" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHH2p0PHme9dH51RubHS-49" value="ALT" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="92" y="410" width="965" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="cHH2p0PHme9dH51RubHS-51" value="返回创建成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=6;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;jumpSize=6;" edge="1" parent="1">
+          <mxGeometry x="-0.0024" relative="1" as="geometry">
+            <mxPoint x="316" y="479" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="429" y="479" />
+              <mxPoint x="459" y="479" />
+            </Array>
+            <mxPoint x="589.5" y="479" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHH2p0PHme9dH51RubHS-53" value="返回存储信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=6;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;jumpSize=6;" edge="1" parent="1">
+          <mxGeometry x="0.0454" y="-2" relative="1" as="geometry">
+            <mxPoint x="591" y="464" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="788" y="464" />
+              <mxPoint x="818" y="464" />
+            </Array>
+            <mxPoint x="1006" y="464" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHH2p0PHme9dH51RubHS-55" value="前端展示创建成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=6;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;jumpSize=6;" edge="1" parent="1">
+          <mxGeometry x="-0.0024" relative="1" as="geometry">
+            <mxPoint x="173.25" y="496" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="286.25" y="496" />
+              <mxPoint x="316.25" y="496" />
+            </Array>
+            <mxPoint x="300" y="496" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHH2p0PHme9dH51RubHS-50" value="返回创建失败" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=6;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;jumpSize=6;" edge="1" parent="1">
+          <mxGeometry x="-0.0024" relative="1" as="geometry">
+            <mxPoint x="313.25" y="553" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="426.25" y="553" />
+              <mxPoint x="456.25" y="553" />
+            </Array>
+            <mxPoint x="586.75" y="553" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHH2p0PHme9dH51RubHS-56" value="前端展示创建失败" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=6;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;jumpSize=6;" edge="1" parent="1">
+          <mxGeometry x="-0.0024" relative="1" as="geometry">
+            <mxPoint x="173.25" y="575" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="286.25" y="575" />
+              <mxPoint x="316.25" y="575" />
+            </Array>
+            <mxPoint x="302" y="575" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
