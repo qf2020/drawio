@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="vRagFAijQyZhj9dlDpXE">
-    <mxGraphModel dx="842" dy="1185" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="729" dy="1114" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -252,28 +252,96 @@
         <mxCell id="eTuDxrzCidafxKBiJFuT-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTuDxrzCidafxKBiJFuT-59" target="eTuDxrzCidafxKBiJFuT-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eTuDxrzCidafxKBiJFuT-59" value="点击路线图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="eTuDxrzCidafxKBiJFuT-59" value="创建路线图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1937" y="120.25" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eTuDxrzCidafxKBiJFuT-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTuDxrzCidafxKBiJFuT-61">
+        <mxCell id="eTuDxrzCidafxKBiJFuT-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTuDxrzCidafxKBiJFuT-61" target="eTuDxrzCidafxKBiJFuT-63">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1999" y="260.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eTuDxrzCidafxKBiJFuT-61" value="创建路线图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+        <mxCell id="eTuDxrzCidafxKBiJFuT-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTuDxrzCidafxKBiJFuT-61" target="eTuDxrzCidafxKBiJFuT-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-61" value="选择配置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1937" y="195.25" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eTuDxrzCidafxKBiJFuT-62" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1762" y="270" as="sourcePoint" />
-            <mxPoint x="2250" y="270" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTuDxrzCidafxKBiJFuT-63" target="eTuDxrzCidafxKBiJFuT-68">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eTuDxrzCidafxKBiJFuT-63" value="选择对齐方式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1772" y="293" width="159" height="40" as="geometry" />
+          <mxGeometry x="1687" y="293" width="159" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTuDxrzCidafxKBiJFuT-64" target="eTuDxrzCidafxKBiJFuT-69">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eTuDxrzCidafxKBiJFuT-64" value="选择排期维度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="2073" y="293" width="159" height="40" as="geometry" />
+          <mxGeometry x="2130" y="293" width="159" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTuDxrzCidafxKBiJFuT-61" target="eTuDxrzCidafxKBiJFuT-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1862" y="303" as="targetPoint" />
+            <mxPoint x="2007" y="245" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eTuDxrzCidafxKBiJFuT-68" target="eTuDxrzCidafxKBiJFuT-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-68" value="可选择时间周期、迭代" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1687" y="371" width="159" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTuDxrzCidafxKBiJFuT-69" target="eTuDxrzCidafxKBiJFuT-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2210" y="449" />
+              <mxPoint x="1997" y="449" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-69" value="可选择工作项类型、处理人等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="377" width="159" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTuDxrzCidafxKBiJFuT-72" target="eTuDxrzCidafxKBiJFuT-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-72" value="生成路线图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1937" y="487" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eTuDxrzCidafxKBiJFuT-75" target="eTuDxrzCidafxKBiJFuT-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-75" value="渲染路线图卡片" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2336" y="487" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTuDxrzCidafxKBiJFuT-76" target="eTuDxrzCidafxKBiJFuT-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-76" value="展示工作项信息（进度、状态、子工作项数）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2336" y="371" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTuDxrzCidafxKBiJFuT-77" target="eTuDxrzCidafxKBiJFuT-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-77" value="点击工作项" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2336" y="267" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTuDxrzCidafxKBiJFuT-81" target="eTuDxrzCidafxKBiJFuT-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-81" value="配置层级" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1917.5" y="321" width="159" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-86" value="跳转至下一层级路线图" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="2336" y="184" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-88" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2371" y="62" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-89" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2380.5" y="71.5" width="31" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="eTuDxrzCidafxKBiJFuT-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eTuDxrzCidafxKBiJFuT-86" target="eTuDxrzCidafxKBiJFuT-88">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
