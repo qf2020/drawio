@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.2">
   <diagram name="第 1 页" id="LAimbSd9u4otUmIS_u9X">
-    <mxGraphModel dx="1642" dy="1185" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1642" dy="1585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,8 @@
         <mxCell id="-5gHlo677Q9oYCEak8Rk-6" value="Data Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-355" y="305" width="130" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="-5gHlo677Q9oYCEak8Rk-7" value="package" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-297" y="-23" width="70" height="50" as="geometry" />
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-7" value="WorkItemCreation" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-343" y="-43" width="126" height="65" as="geometry" />
         </mxCell>
         <mxCell id="-5gHlo677Q9oYCEak8Rk-8" value="Base Function Console" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-335" y="-289" width="110" height="50" as="geometry" />
@@ -36,6 +36,39 @@
         </mxCell>
         <mxCell id="-5gHlo677Q9oYCEak8Rk-11" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="141" y="-283" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-12" value="&lt;span style=&quot;color: rgb(53, 148, 247); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13.6px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: break-spaces; background-color: rgba(59, 170, 250, 0.1); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;WorkItemCreationBL&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-147" y="-404" width="175" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-15" value="WorkItemUpdate" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-209" y="-65" width="126" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-16" value="ProgressTracking" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-297" y="77" width="126" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-17" value="ProcessDefinition" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-79" y="19" width="126" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-18" value="ApprovalWorkflow" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="34" y="-64" width="126" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-19" value="PlanCreation" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="62" y="42" width="126" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-20" value="ScheduleValidation" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="54" y="122" width="126" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-21" value="TaskAutomation" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="184" y="-34" width="126" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-23" value="DevOpsIntegration" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="211" y="86" width="126" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-24" value="OfficeCollaboration" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="331" y="-9" width="126" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-25" value="OperationsPlatform" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="102" width="126" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
