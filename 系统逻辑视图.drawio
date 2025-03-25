@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-5gHlo677Q9oYCEak8Rk-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-355" y="-366" width="922" height="180" as="geometry" />
+          <mxGeometry x="-355" y="-366" width="766" height="148" as="geometry" />
         </mxCell>
         <mxCell id="-5gHlo677Q9oYCEak8Rk-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-355" y="-140" width="922" height="422" as="geometry" />
+          <mxGeometry x="-355" y="-140" width="774" height="418" as="geometry" />
         </mxCell>
         <mxCell id="-5gHlo677Q9oYCEak8Rk-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-355" y="305" width="922" height="180" as="geometry" />
+          <mxGeometry x="-355" y="305" width="777" height="180" as="geometry" />
         </mxCell>
         <mxCell id="-5gHlo677Q9oYCEak8Rk-4" value="User Interface Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-355" y="-366" width="130" height="33" as="geometry" />
@@ -23,49 +23,67 @@
           <mxGeometry x="-355" y="305" width="130" height="33" as="geometry" />
         </mxCell>
         <mxCell id="-5gHlo677Q9oYCEak8Rk-7" value="WorkItemCreation" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-343" y="-43" width="126" height="65" as="geometry" />
+          <mxGeometry x="-344" y="-23" width="126" height="65" as="geometry" />
         </mxCell>
         <mxCell id="-5gHlo677Q9oYCEak8Rk-8" value="Base Function Console" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-335" y="-289" width="110" height="50" as="geometry" />
+          <mxGeometry x="-268" y="-306" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-5gHlo677Q9oYCEak8Rk-9" value="Operations Platform Console" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-14" y="-285" width="110" height="50" as="geometry" />
+          <mxGeometry x="160" y="-306" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-5gHlo677Q9oYCEak8Rk-10" value="Open Plateform Console" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-189" y="-285" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-5gHlo677Q9oYCEak8Rk-11" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="141" y="-283" width="110" height="50" as="geometry" />
+          <mxGeometry x="-60" y="-306" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-5gHlo677Q9oYCEak8Rk-15" value="WorkItemUpdate" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-209" y="-65" width="126" height="65" as="geometry" />
+          <mxGeometry x="-233" y="-102" width="126" height="65" as="geometry" />
         </mxCell>
         <mxCell id="-5gHlo677Q9oYCEak8Rk-16" value="ProgressTracking" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-297" y="77" width="126" height="65" as="geometry" />
+          <mxGeometry x="-330" y="115" width="126" height="65" as="geometry" />
         </mxCell>
         <mxCell id="-5gHlo677Q9oYCEak8Rk-17" value="ProcessDefinition" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-79" y="19" width="126" height="65" as="geometry" />
+          <mxGeometry x="-82" y="-99" width="126" height="65" as="geometry" />
         </mxCell>
         <mxCell id="-5gHlo677Q9oYCEak8Rk-18" value="ApprovalWorkflow" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="34" y="-64" width="126" height="64" as="geometry" />
+          <mxGeometry x="-150" y="69" width="126" height="64" as="geometry" />
         </mxCell>
         <mxCell id="-5gHlo677Q9oYCEak8Rk-19" value="PlanCreation" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="62" y="42" width="126" height="64" as="geometry" />
+          <mxGeometry x="-15" y="-16" width="126" height="64" as="geometry" />
         </mxCell>
         <mxCell id="-5gHlo677Q9oYCEak8Rk-20" value="ScheduleValidation" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="54" y="122" width="126" height="64" as="geometry" />
+          <mxGeometry x="34" y="99" width="126" height="64" as="geometry" />
         </mxCell>
         <mxCell id="-5gHlo677Q9oYCEak8Rk-21" value="TaskAutomation" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="184" y="-34" width="126" height="64" as="geometry" />
+          <mxGeometry x="125" y="-78" width="126" height="64" as="geometry" />
         </mxCell>
         <mxCell id="-5gHlo677Q9oYCEak8Rk-23" value="DevOpsIntegration" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="211" y="86" width="126" height="64" as="geometry" />
+          <mxGeometry x="209" y="56" width="126" height="64" as="geometry" />
         </mxCell>
         <mxCell id="-5gHlo677Q9oYCEak8Rk-24" value="OfficeCollaboration" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="331" y="-9" width="126" height="64" as="geometry" />
+          <mxGeometry x="236" y="166" width="126" height="64" as="geometry" />
         </mxCell>
         <mxCell id="-5gHlo677Q9oYCEak8Rk-25" value="OperationsPlatform" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="102" width="126" height="64" as="geometry" />
+          <mxGeometry x="270" y="-64" width="126" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-26" value="WorkItemInfo" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-349" y="350" width="101" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-27" value="StatusInfo" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="415" width="101" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-28" value="WorkflowInfo" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-147" y="331" width="101" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-29" value="IterationInfo" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-48" y="404" width="101" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-30" value="AutoTaskInfo" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="76" y="331" width="101" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-31" value="DevOpsIntegration" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="267" y="334" width="101" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-32" value="OfficeCollaboration" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="173" y="404" width="101" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
