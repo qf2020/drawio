@@ -22,6 +22,21 @@
         <mxCell id="-5gHlo677Q9oYCEak8Rk-6" value="Data Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-355" y="305" width="130" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-7" value="package" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-297" y="-23" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-8" value="Base Function Console" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-335" y="-289" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-9" value="Operations Platform Console" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-14" y="-285" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-10" value="Open Plateform Console" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-189" y="-285" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-5gHlo677Q9oYCEak8Rk-11" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="141" y="-283" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
