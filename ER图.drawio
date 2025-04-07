@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1636" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2036" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,30 @@
         </mxCell>
         <mxCell id="Q7mi7OF3EURctunxMx_V-7" value="执行对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="168" y="494" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7mi7OF3EURctunxMx_V-8" value="统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="513" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7mi7OF3EURctunxMx_V-9" value="指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="427" y="389" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7mi7OF3EURctunxMx_V-10" value="项目仪表盘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="472" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7mi7OF3EURctunxMx_V-11" value="项目仪表盘卡片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="602" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7mi7OF3EURctunxMx_V-12" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-391" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7mi7OF3EURctunxMx_V-13" value="公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-404" y="514" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7mi7OF3EURctunxMx_V-14" value="企业微信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-385" y="623" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7mi7OF3EURctunxMx_V-15" value="组织架构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-568" y="494" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
