@@ -4,23 +4,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BuTEyDS6sCCWGv47zVFw-1" value="需求表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BuTEyDS6sCCWGv47zVFw-1" value="需求" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-287" y="217" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q7mi7OF3EURctunxMx_V-1" value="缺陷表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q7mi7OF3EURctunxMx_V-1" value="缺陷" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-287" y="112" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q7mi7OF3EURctunxMx_V-2" value="模版表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q7mi7OF3EURctunxMx_V-2" value="模版" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-24" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q7mi7OF3EURctunxMx_V-3" value="工作流表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q7mi7OF3EURctunxMx_V-3" value="工作流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="176" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q7mi7OF3EURctunxMx_V-4" value="工作流状态表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q7mi7OF3EURctunxMx_V-4" value="工作流状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="168" y="277" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q7mi7OF3EURctunxMx_V-5" value="迭代表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q7mi7OF3EURctunxMx_V-5" value="迭代" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-24" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7mi7OF3EURctunxMx_V-6" value="触发对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-14" y="492" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7mi7OF3EURctunxMx_V-7" value="执行对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="168" y="494" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
