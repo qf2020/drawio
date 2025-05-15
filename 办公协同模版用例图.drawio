@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5">
   <diagram name="第 1 页" id="Ta36O1h0ZpPf87er8gXT">
-    <mxGraphModel dx="1236" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1234" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,13 +14,13 @@
           <mxGeometry x="364" y="65" width="99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="isFGyiBK4rGAAYViwIA2-4" value="同步公司部门信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="412" y="120" width="100" height="50" as="geometry" />
+          <mxGeometry x="429" y="108" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="isFGyiBK4rGAAYViwIA2-5" value="关联企业微信" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="237" y="168" width="100" height="50" as="geometry" />
+          <mxGeometry x="237" y="212" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="isFGyiBK4rGAAYViwIA2-6" value="关联腾讯会议" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="237" y="391" width="100" height="50" as="geometry" />
+          <mxGeometry x="240" y="418" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="isFGyiBK4rGAAYViwIA2-7" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="isFGyiBK4rGAAYViwIA2-1" target="isFGyiBK4rGAAYViwIA2-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -35,13 +35,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="isFGyiBK4rGAAYViwIA2-14" value="通过企业微信登录" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="416" y="177" width="100" height="50" as="geometry" />
+          <mxGeometry x="429" y="210" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="isFGyiBK4rGAAYViwIA2-15" value="企业微信拉群" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="412" y="267" width="100" height="50" as="geometry" />
+          <mxGeometry x="439" y="312" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="isFGyiBK4rGAAYViwIA2-17" value="建立腾讯会议" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="391" width="100" height="50" as="geometry" />
+          <mxGeometry x="439" y="418" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="isFGyiBK4rGAAYViwIA2-18" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="isFGyiBK4rGAAYViwIA2-5" target="isFGyiBK4rGAAYViwIA2-4" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
