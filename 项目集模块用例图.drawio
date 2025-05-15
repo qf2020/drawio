@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5">
   <diagram name="第 1 页" id="arUY8eHHDzS9g_M78714">
-    <mxGraphModel dx="1236" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1234" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,10 +14,10 @@
           <mxGeometry x="381" y="65" width="99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iaG2qTNAKsXV_zvwA0-Y-4" value="创建里程碑" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="424" y="256" width="100" height="50" as="geometry" />
+          <mxGeometry x="498" y="265" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iaG2qTNAKsXV_zvwA0-Y-11" value="创建项目集" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="222" y="324" width="100" height="50" as="geometry" />
+          <mxGeometry x="289" y="324" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iaG2qTNAKsXV_zvwA0-Y-32" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iaG2qTNAKsXV_zvwA0-Y-1" target="iaG2qTNAKsXV_zvwA0-Y-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -26,25 +26,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iaG2qTNAKsXV_zvwA0-Y-55" value="创建甘特图" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="426" y="342" width="100" height="50" as="geometry" />
+          <mxGeometry x="502" y="401" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iaG2qTNAKsXV_zvwA0-Y-56" value="创建计划" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="424" y="453" width="100" height="50" as="geometry" />
+          <mxGeometry x="510" y="519" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iaG2qTNAKsXV_zvwA0-Y-57" value="项目集权限配置" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="225" y="553" width="100" height="50" as="geometry" />
+          <mxGeometry x="324" y="549" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iaG2qTNAKsXV_zvwA0-Y-58" value="创建工作项" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="222" y="462" width="100" height="50" as="geometry" />
+          <mxGeometry x="289" y="437" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iaG2qTNAKsXV_zvwA0-Y-59" value="关联工作项" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="225" y="126" width="100" height="50" as="geometry" />
+          <mxGeometry x="336" y="101" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iaG2qTNAKsXV_zvwA0-Y-60" value="查看项目集统计数据" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="222" y="624" width="100" height="50" as="geometry" />
+          <mxGeometry x="291" y="637" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iaG2qTNAKsXV_zvwA0-Y-61" value="查看工作项" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="222" y="208" width="100" height="50" as="geometry" />
+          <mxGeometry x="308" y="208" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iaG2qTNAKsXV_zvwA0-Y-63" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iaG2qTNAKsXV_zvwA0-Y-1" target="iaG2qTNAKsXV_zvwA0-Y-58" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iaG2qTNAKsXV_zvwA0-Y-73" value="配置项目集范围" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="424" y="183" width="100" height="50" as="geometry" />
+          <mxGeometry x="498" y="161" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iaG2qTNAKsXV_zvwA0-Y-74" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iaG2qTNAKsXV_zvwA0-Y-11" target="iaG2qTNAKsXV_zvwA0-Y-73" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
